@@ -1,5 +1,5 @@
 ﻿using System;
-
+/////////////
 namespace Artem
 {
     public class Matrix
